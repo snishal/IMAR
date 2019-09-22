@@ -13,7 +13,7 @@
 ![Img 10](https://github.com/snishal/IMAR/blob/master/photos/Screenshot%20from%202019-09-22%2012-13-25.png)
 ![Img 11](https://github.com/snishal/IMAR/blob/master/photos/Screenshot%20from%202019-09-22%2012-13-37.png)
 
-# REFRENCES
+# REFERENCES
 [ARCore SDK for Java API Reference](https://developers.google.com/ar/reference/java)
 
 [Find Documentation](https://www.internalpositioning.com/doc/)

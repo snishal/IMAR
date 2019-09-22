@@ -1,7 +1,6 @@
 # Indoor Map AR
 ![Img 1](https://github.com/snishal/IMAR/blob/master/photos/Screenshot%20from%202019-09-22%2012-11-15.png)
 ![Img 2](https://github.com/snishal/IMAR/blob/master/photos/Screenshot%20from%202019-09-22%2012-10-46.png)
-![Img 3](https://github.com/snishal/IMAR/blob/master/photos/Screenshot%20from%202019-09-22%2012-11-27.png)
 ![Img 4](https://github.com/snishal/IMAR/blob/master/photos/Screenshot%20from%202019-09-22%2012-12-12.png)
 ![Img 5](https://github.com/snishal/IMAR/blob/master/photos/Screenshot%20from%202019-09-22%2012-12-23.png)
 ![Img 6](https://github.com/snishal/IMAR/blob/master/photos/Screenshot%20from%202019-09-22%2012-12-38.png)
